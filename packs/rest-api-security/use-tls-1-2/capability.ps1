@@ -1,0 +1,1 @@
+# Check server type to check for TLS 1.2 support

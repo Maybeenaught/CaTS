@@ -1,0 +1,12 @@
+{
+  "id": "rest-api-security",
+  "name": "Rest API Security",
+  "version": "0.0.1",
+  "tags": [
+    "security",
+    "api"
+  ],
+  "rules": [
+    "use-https"
+  ]
+}
