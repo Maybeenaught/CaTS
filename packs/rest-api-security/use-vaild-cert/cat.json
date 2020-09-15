@@ -1,0 +1,12 @@
+{
+  "id": "use-vaild-cert",
+  "name": "Uses a vaild Cert",
+  "version": "0.0.1",
+  "defaultPriority": "critical",
+  "functions": {
+    "capability": "capability.ps1",
+    "compliance": "compliance.ps1"
+  },
+  "platforms": [],
+  "tags": []
+}
